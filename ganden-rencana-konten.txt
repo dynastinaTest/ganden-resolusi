@@ -2,6 +2,10 @@ Rencana Konten Ganden
 
 - Membuat video pembelajaran
   # belajar softskill
+  # membuat video ngoding
+    - PHP
+    - Laravel
+    - CI
 - Membuat file yang dapat dibagi
   # ppt ngoding
   # document ngoding
