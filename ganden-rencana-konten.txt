@@ -6,6 +6,7 @@ Rencana Konten Ganden
     - PHP
     - Laravel
     - CI
+    - React
 - Membuat file yang dapat dibagi
   # ppt ngoding
   # document ngoding
