@@ -9,4 +9,5 @@ Rencana Konten Ganden
     - React
 - Membuat file yang dapat dibagi
   # ppt ngoding
+  # gambar animasi 
   # document ngoding
