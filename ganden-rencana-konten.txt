@@ -4,3 +4,4 @@ Rencana Konten Ganden
   # belajar softskill
 - Membuat file yang dapat dibagi
   # ppt ngoding
+  # document ngoding
